@@ -7940,6 +7940,7 @@ a:hover {
   position: fixed;
   bottom: 20px;
   right: 15px;
+  display: none;
 }
 @media (min-width: 960px) {
   .fix-controls {
@@ -8320,3 +8321,4 @@ a:hover {
 }
 
 /* Additional style files. */
+/*# sourceMappingURL=main.css.map */
